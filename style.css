@@ -1,0 +1,78 @@
+body {
+    width: 960px;
+    margin: 5px auto;
+    background-color: chocolate;
+    
+  }
+
+  header {
+    display: block;
+    width: 100%;
+    padding: 5px 0 5px 0;
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+  }
+
+  nav {
+    display: inline-block;
+    padding: 0 20px 0 0;
+    width: 30%;
+    margin-bottom: 10px;
+    vertical-align: top;
+    box-sizing: border-box;
+    text-align: justify;
+    font-size: 1.1em;
+    font-family: montserrat, Georgia, 'Times New Roman', Times, serif;
+
+   }
+
+  section {
+    display: inline-block;
+    padding: 0 0 0 20px;
+    width: 70%;
+    margin-bottom: 10px;
+    border-left: 1px solid black;
+    vertical-align: top;
+    float: right;
+    box-sizing: border-box;
+    text-align: justify;
+    font-size: 1em;
+    font-family: montserrat, Georgia, 'Times New Roman', Times, serif;
+  }
+
+  footer {
+    display: block;
+    width: 100%;
+    padding: 5px 0 5px 0;
+    border-top: 1px solid black;
+    clear: right;
+    text-align: right;
+    font-size: 1.5em;
+  }
+
+  ul {
+    margin-left: 5px;
+    list-style-type: none;
+    }
+
+  a {
+    text-indent: 20px;
+    text-transform: capitalize;
+    line-height: 50px;
+    color: black;
+    text-decoration: none;
+   }
+
+   h1 {
+     text-align: center;
+   }
+
+   h2 {
+     text-align: center;
+   }
+
+  
